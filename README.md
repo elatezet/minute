@@ -1,6 +1,6 @@
-# Stunde _<img src="./assets/icon.png" width="40" align="right"/>_
+# Minute _<img src="./assets/icon.png" width="40" align="right"/>_
 
-Stunde is a simple timekeeper for macOS. It allows you to track the time you spent on different projects. It is designed to be simple and easy to use. It runs in the menu bar and does not require any setup. It was designed for freelancers, students, and anyone who needs to track their time. You can also export your time entries to a CSV file. The app is open-source and free to use.
+Minute is a simple timekeeper for macOS. It allows you to track the time you spent on different projects. It is designed to be simple and easy to use. It runs in the menu bar and does not require any setup. It was designed for freelancers, students, and anyone who needs to track their time. You can also export your time entries to a CSV file. The app is open-source and free to use.
 
 ### Screenshots
 
